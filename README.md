@@ -1,6 +1,6 @@
 # Script
 
-## This a trial for show you an alert message when your DataBase is down 
+## This a trial for show you an alert message when your Database is down 
 
 ### 1 Clone this repo
 ```
